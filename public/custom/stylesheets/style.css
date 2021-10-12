@@ -1,0 +1,137 @@
+
+.sidetexth {
+  font: normal normal 600 20px/27px Montserrat;
+  letter-spacing: 0px;
+  color: #000000;
+  text-decoration: none !important;
+}
+.sidetext {
+    font: normal normal 600 15px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    letter-spacing: 0.38px;
+    opacity: 0.8;
+    text-decoration: none !important;
+    text-align: left;
+    font: normal normal medium 15px/26px Montserrat;
+    letter-spacing: 0.38px;
+    color: #000000;
+    font-weight: 100 !important;
+}
+.launcher.to {
+    text-align: left;
+    margin-left: 20px;
+    padding: 1px 0px 0px 0px;
+}
+.pillnav {
+    padding: 4px 15px 2px 15px;
+}
+.pillnav:hover {
+    padding: 4px 15px 2px 15px;
+    color: #3499FF ;
+    border-bottom: 2px solid #3499ff;
+}
+.fa.fa-users {
+    color: #000;
+    font-size: 18px;
+    /*padding: 10px 2px 0px 10px*/
+}
+.headsec {
+    display: inline-flex;
+    font-size: 20px;
+    padding: 2px 0px 0px 0px;
+}
+.fa.fa-users.to{
+	color: #3499FF;
+	
+}
+.fa.fa-users.to0{
+	color: #fff;
+	
+}
+.fa.fa-check-circle-o {
+    font-size: 18px;
+    font-weight: 100 !important;
+    opacity: 1;
+}
+.fa-check-circle-o{
+	color: #000;
+    font-size: 18px;
+    padding: 10px 2px 0px 10px
+}
+.fa-star-o{
+	color: #000;
+    font-size: 18px;
+    padding: 10px 2px 0px 10px
+}
+.unity {
+    width: 16px;
+    height: 16px;
+}
+.unityft {
+    width: 25px;
+    height: 25px;
+}
+.fa.fa-plus{
+	color: #000;
+    font-size: 18px;
+    padding: 10px 2px 0px 10px
+}
+.fa.fa-search{
+	color: #ddd;
+    font-size: 18px;
+    padding: 10px 2px 0px 10px
+}
+.fa.fa-circle {
+    color: #32CD30;
+    font-size: 10px;
+    padding: 1px 5px;
+}
+.social-media a {
+	text-decoration: none;
+}
+
+.social-media i {
+	height: 25px;
+	width: 25px;
+	margin: 20px 10px;
+	padding: 4px;
+	color: #fff;
+	transition: 0.5s;
+}
+
+.social-media i:hover {
+	transform: scale(1.5);
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+.nav-link {
+    color: #525f7f;
+}
+.fa.fa-plus-circle {
+    float: left;
+     padding: .5rem 1rem;
+}
+.tablehead {
+    width: 80px;
+}
+.circleyellow {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid yellow;
+    line-height: 30px;
+    text-align: center;
+    font-size: 12px;
+    color: #525f7f;
+    background: yellow;
+}
+.table-active {
+    background: #dddddd;
+    border-top: 2px solid #1F15FF;
+    border-bottom: 2px solid #1f15ff;
+    background: #E2F1FC 0% 0% no-repeat padding-box;
+}
